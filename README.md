@@ -1,4 +1,4 @@
-# BaNK_ACc__New: Bank Account Management System
+# Bank Account Management System
 
 This project is a Bank Account Management System implemented in Python. The system provides functionalities for creating new customer accounts, viewing account details, handling transactions, and more.
 
